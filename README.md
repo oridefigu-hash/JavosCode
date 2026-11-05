@@ -3,7 +3,7 @@
 Juego 2D en Java hecho en equipo para la Game Jam Java (opción 2: Snake con deshacer).
 Una serpiente crece al comer y, con la tecla Z, se deshace el último movimiento a cambio de puntos.
 
-Integrantes: Oriana de Figueroa, Juan Pablo Zarza, Agustina Reviriego e Ignacio Grossetti.
+Integrantes: Oriana de Figueroa, Juan Pablo Zarza, Agustina Reviriego, Florencia Reviriego, Ignacio Grossetti.
 
 ## Cómo jugar
 
